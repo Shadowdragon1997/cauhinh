@@ -6,3 +6,7 @@ bash <(curl -Ls https://raw.githubusercontent.com/Shadowdragon1997/script/main/i
 ```
 bash <(curl -Ls https://raw.githubusercontent.com/Shadowdragon1997/script/main/installdev.sh)
 ```
+## Cài đặt phụ
+```
+bash <(curl -Ls https://raw.githubusercontent.com/Shadowdragon1997/script/main/installtest.sh)
+```
